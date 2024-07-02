@@ -1,0 +1,8 @@
+@media (max-width: 576px) {
+    .card img {
+        padding: 1rem;
+    }
+    .card-body {
+        padding: 1rem;
+    }
+}
